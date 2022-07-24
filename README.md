@@ -29,6 +29,3 @@ Install Viscomsoft Video Capture Pro SDK ActiveX x64 from http://www.viscomsoft.
 10. Royalty free distribution of the OCX file.
 
 
-
-C# - How to Add TWAIN Scanning features to WinForm application from NuGet Packages http://www.viscomsoft.com/popular/scanner/161.html
- 
